@@ -1,5 +1,5 @@
 {
-  "name": "latest-wdio-allure-vg",
+  "name": "wdio-allure-vg-2.0",
   "version": "1.0.0",
   "description": "A WebdriverIO plugin. Report results in Allure format. (Modified to allow non-unique steps in reporting)",
   "main": "build/reporter.js",
